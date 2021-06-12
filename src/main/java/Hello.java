@@ -5,6 +5,7 @@ public class Hello {
        audi.door="two";
        audi.model="r8";
        audi.number="999";
+       //test casees fo r color of the color
 
        
 
